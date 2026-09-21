@@ -1,4 +1,4 @@
 function saludar() {
-return "Me la shaco";
+return "Buenos días";
 }
 console.log(saludar());
